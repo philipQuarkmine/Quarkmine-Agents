@@ -1,0 +1,19 @@
+﻿# Logs
+*.log
+
+# Snapshots
+ProjectSnapshot_*.zip
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Ollama / model configs
+.ollama/
+
+# Temporary data
+tmp/
+
+# Windows junk
+Thumbs.db
+Desktop.ini

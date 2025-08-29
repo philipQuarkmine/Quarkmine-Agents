@@ -1,0 +1,108 @@
+{
+  "state": "Nevada",
+  "counties": {
+    "Carson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Churchill": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Clark": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Douglas": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Elko": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Esmeralda": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Eureka": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Humboldt": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lander": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lincoln": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lyon": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mineral": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Nye": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Pershing": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Storey": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Washoe": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "White Pine": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    }
+  },
+  "created": "2025-08-20T14:21:24.259194"
+}

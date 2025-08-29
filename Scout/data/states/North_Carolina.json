@@ -1,0 +1,606 @@
+{
+  "state": "North Carolina",
+  "counties": {
+    "Alamance": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Alexander": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Alleghany": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Anson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ashe": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Avery": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Beaufort": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Bertie": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Bladen": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Brunswick": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Buncombe": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Burke": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cabarrus": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Caldwell": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Camden": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Carteret": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Caswell": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Catawba": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chatham": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cherokee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chowan": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Clay": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cleveland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Columbus": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Craven": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cumberland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Currituck": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Dare": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Davidson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Davie": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Duplin": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Durham": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Edgecombe": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Forsyth": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Franklin": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Gaston": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Gates": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Graham": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Granville": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Greene": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Guilford": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Halifax": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Harnett": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Haywood": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Henderson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Hertford": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Hoke": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Hyde": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Iredell": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Jackson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Johnston": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Jones": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lenoir": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lincoln": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Macon": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Madison": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Martin": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mcdowell": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mecklenburg": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mitchell": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Montgomery": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Moore": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Nash": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "New Hanover": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Northampton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Onslow": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Orange": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Pamlico": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Pasquotank": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Pender": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Perquimans": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Person": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Pitt": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Polk": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Randolph": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Richmond": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Robeson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Rockingham": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Rowan": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Rutherford": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Sampson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Scotland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Stanly": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Stokes": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Surry": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Swain": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Transylvania": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Tyrrell": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Union": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Vance": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wake": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Warren": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Washington": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Watauga": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wayne": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wilkes": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wilson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Yadkin": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Yancey": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    }
+  },
+  "created": "2025-08-20T14:21:30.003607"
+}

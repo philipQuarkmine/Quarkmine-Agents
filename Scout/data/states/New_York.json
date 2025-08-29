@@ -1,0 +1,378 @@
+{
+  "state": "New York",
+  "counties": {
+    "Albany": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Allegany": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Bronx": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Broome": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cattaraugus": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cayuga": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chautauqua": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chemung": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chenango": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Clinton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Columbia": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cortland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Delaware": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Dutchess": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Erie": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Essex": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Franklin": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Fulton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Genesee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Greene": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Hamilton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Herkimer": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Jefferson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Kings": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lewis": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Livingston": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Madison": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Monroe": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Montgomery": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Nassau": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "New York": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Niagara": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Oneida": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Onondaga": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ontario": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Orange": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Orleans": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Oswego": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Otsego": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Putnam": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Queens": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Rensselaer": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Richmond": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Rockland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Saratoga": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Schenectady": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Schoharie": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Schuyler": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Seneca": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "St. Lawrence": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Steuben": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Suffolk": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Sullivan": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Tioga": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Tompkins": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ulster": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Warren": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Washington": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wayne": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Westchester": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wyoming": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Yates": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    }
+  },
+  "created": "2025-08-20T14:21:28.828207"
+}

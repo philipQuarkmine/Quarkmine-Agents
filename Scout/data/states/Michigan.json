@@ -1,0 +1,504 @@
+{
+  "state": "Michigan",
+  "counties": {
+    "Alcona": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Alger": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Allegan": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Alpena": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Antrim": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Arenac": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Baraga": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Barry": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Bay": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Benzie": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Berrien": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Branch": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Calhoun": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cass": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Charlevoix": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cheboygan": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chippewa": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Clare": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Clinton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Crawford": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Delta": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Dickinson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Eaton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Emmet": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Genesee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Gladwin": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Gogebic": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Grand Traverse": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Gratiot": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Hillsdale": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Houghton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Huron": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ingham": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ionia": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Iosco": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Iron": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Isabella": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Jackson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Kalamazoo": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Kalkaska": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Kent": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Keweenaw": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lake": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lapeer": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Leelanau": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lenawee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Livingston": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Luce": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mackinac": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Macomb": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Manistee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Marquette": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mason": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mecosta": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Menominee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Midland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Missaukee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Monroe": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Montcalm": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Montmorency": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Muskegon": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Newaygo": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Oakland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Oceana": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ogemaw": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ontonagon": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Osceola": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Oscoda": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Otsego": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Ottawa": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Presque Isle": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Roscommon": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Saginaw": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Sanilac": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Schoolcraft": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Shiawassee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "St. Clair": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "St. Joseph": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Tuscola": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Van Buren": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Washtenaw": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wayne": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Wexford": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    }
+  },
+  "created": "2025-08-20T14:21:17.280419"
+}

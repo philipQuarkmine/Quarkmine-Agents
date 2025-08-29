@@ -1,0 +1,282 @@
+{
+  "state": "South Carolina",
+  "counties": {
+    "Abbeville": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Aiken": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Allendale": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Anderson": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Bamberg": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Barnwell": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Beaufort": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Berkeley": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Calhoun": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Charleston": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Cherokee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chester": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Chesterfield": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Clarendon": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Colleton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Darlington": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Dillon": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Dorchester": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Edgefield": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Fairfield": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Florence": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Georgetown": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Greenville": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Greenwood": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Hampton": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Horry": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Jasper": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Kershaw": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lancaster": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Laurens": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Lexington": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Marion": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Marlboro": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Mccormick": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Newberry": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Oconee": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Orangeburg": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Pickens": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Richland": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Saluda": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Spartanburg": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Sumter": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Union": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "Williamsburg": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    },
+    "York": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    }
+  },
+  "created": "2025-08-20T14:21:38.295311"
+}

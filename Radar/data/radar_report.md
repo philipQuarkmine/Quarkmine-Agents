@@ -1,0 +1,93 @@
+# Radar Report — 2025-08-20 14:44
+_Threshold for handoff: 65_
+
+- **South Effingham High School (Georgia)** — 2024-25 Coastal Empire High School Sports Awards: See all spring nominees - Savannah Morning News  
+  - Other • score **37** (r0, b6, s0, f19, c12) • 2025-05-21T07:00  
+  - https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUXkxbndFM3MzVGd2RExJY0ZYZHpGMGdneEdicG9ZY0pZZWxZclA3STNQZW1WNHdfLUQzam5uRm1iYmJVY3ZuU01aYl9ST29QN0FSTEt1aFY4X0lhNE5BeF9DV2RlampmRkpmMVZJaVFVNWZvbGJhNEhnSWN6SDZkY0hzQXVzV0szTlJkM1J0dHBUcVF0a0JnYnRXdTRkRHNmQlNKRjBVSzRhb2t3eEdoSFlQZi1ZenZ6aUNEWHM2UXlyaUR4ejdTZTZGaHBmcjJSUEZFR1d1eEVtWGxxT0hFUWVKVmszYnUwZHg0?oc=5
+- **South Effingham High School (Georgia)** — Effingham County Schools to use grant, ESPLOST to pay for new safety system - Savannah Morning News  
+  - Other • score **37** (r0, b6, s0, f19, c12) • 2025-04-26T07:00  
+  - https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1FqQno0VGRCZFRHM2xQTy05WTNnZDdRTXA0UU0tYUh1OWJpazF6RnV0Z09MTXFOWWhoY1NwZDFpdUVQMU1zeWIxeVNhZGdmZmhrYm5CQnJkWDVsc0xZLVV0VEktdk05bG05a1dsbFF3RDU3MEpQajctTnJtMW9nSGxHeHc0cXNMaEQ5YWVRUzhKUzkxenRjalhRWHhyaWtfb202SjJDS2ZkV3F3YkRyOVZBWG01Q0VWTjdkdQ?oc=5
+- **South Effingham High School (Georgia)** — Nine Effingham schools earn state honors - Effingham Herald  
+  - Other • score **37** (r0, b6, s0, f19, c12) • 2025-05-21T07:00  
+  - https://news.google.com/rss/articles/CBMiiwFBVV95cUxQckthWmlRS1llODRzbWFueXpLNDJxekhzcHkxVTA0UnJ4YU5EdHRoWUczQ2Q3MHZ0eDBGRTFDOFdYOEpOdm11OWVHa2pYcGduV2hISUFWNC1jTFZXd3FlUG9UNVZxRk5fNmhiaF9oby1lRHpRT254c2JzX2hhdVZ3S3FJQWV1cHVvSEpZ?oc=5
+- **Port Wentworth Elementary School (Georgia)** — Savannah Public Schools cut ribbons on nearly $200 million in ESPLOST capital projects - Savannah Morning News  
+  - Funding & Facilities • score **53** (r20, b6, s0, f15, c12) • 2025-08-14T09:05  
+  - https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMmF1ZG9oMnNwU2NJSHRkbV9mTmN4WEVkQkwzUW9wNVpaQUlCRFVuOVEwR1NadW5HSWh5VG1GdkxrdmhqbFFlSHV6UmFlVkUxdVlVMjlLcGthYThpZVlvMGo1VFV4WGFpdllCeHBPQTBYdHFMMnlaMnJsMzBHMEJjREVsdFZyWkc3LWNUM2NYNEpQeUhwUXhiQW1PMEIxeDBwSDVXQndVV0tmaldZTzVvV3BWUTJoMW9NVko4QTJxbGhJMzVXZXN2eS13SjBNWXExdjlCd0F2MHlnanhpLWJzWUFvTTJaSUwyZXVr?oc=5
+- **Woodbine Elementary School (Georgia)** — Annual Update - Sacramento City Unified School District  
+  - Other • score **46** (r12, b6, s0, f16, c12) • 2025-08-08T15:55  
+  - https://news.google.com/rss/articles/CBMid0FVX3lxTFBpS3RyWWNVSGhwV1EyM0RMRUhsZTdkSERCWXN6QVVSUWpWQURWVjJsMEpaWF9HRjNQTUdzVzFXNkoybUp4UEc3amVHZkJrcDFSTC1ZM1hPbzcxRG5Zb2I4UWs5TUxHVlExWDRBLU4wZFYzX1VFRVNB?oc=5
+- **Woodbine Elementary School (Georgia)** — Infant, Toddler & Preschool - Sacramento City Unified School District  
+  - Other • score **46** (r12, b6, s0, f16, c12) • 2025-08-08T15:53  
+  - https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tRVVyTTdMQ2NrNDJlbkhGVW1kZkJfQk82VFJFSThndmw5WW5sdXJjYUpoZWJvN3ExYmdLbVlVbmN2bXJhUTFINjdZRmQ0VzJtWllQdWtYTHZrNi1hSmc?oc=5
+- **Groveland Elementary School (Georgia)** — Minnesota Tax Collections For May Beat the Forecast by $23 million - KROC-AM  
+  - Other • score **41** (r6, b6, s0, f17, c12) • 2025-06-28T07:00  
+  - https://news.google.com/rss/articles/CBMidEFVX3lxTE9aTWFVb2hFcGVNZGhCX3dMbzJyQUpvcTRYUmhSRmExbEZ2Nm5kMGozN3IxdlV1NGtPUm0ySGdFX1J1MTBwNkpGNDM1b1pCYlJXbnJDMmthQmhrTVp1UEZWWFN1REk1WXQycGJUdGoyUEZUQWFk?oc=5
+- **Sacred Heart Catholic School (Georgia)** — 2025 Top of Class: Mize Attendance Center & Sacred Heart Catholic School - WDAM-TV  
+  - Other • score **39** (r6, b6, s0, f15, c12) • 2025-06-04T07:00  
+  - https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3FOMFlQR0VJazFrTHhILVB3THdxTEszQS1wYmw5elAxQXZDTzBld0gyaDRuVkVHd1pqNGhHOGpPX0Zyem9Dc0x1aXBSWnUzYXZNN3RoWE9WaVcwbE1EaUQwZXJGYW4zd284Nkh1M1hwMmEtaG9HaEotV1Ewd0c3bU1KaGZOQ0xEaGNmT3ZwbnBPWFFmM3JWNUJVUEEtak1w?oc=5
+- **Covington Independent School District (Texas)** — ‘An un­for­tunate surprise’: Kentucky school districts face un­cer­tainty following COVID-era funding pause - Spectrum News  
+  - Other • score **32** (r0, b6, s0, f14, c12) • 2025-05-20T07:00  
+  - https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0hmdEp4NDByX1ZEaXVhQU51M21yUG42SGM0MGtJZzZZR0d4cDZsaVo2WXdwZExCQW5zbmExSDNKbUtOemVUMmYtdVpNV1RXT21DLTBNdGZvWTZRUU12QXRQY0dDVzdZcURFNTVzOTZBTklLRDlpUXd6ci1qR3ZXYkwwSGRJMjhXTzRMMnBBRzFncmltNXlQZVRmc3h4NFNFTE8yTmdJUTRZVHdhUkhaREJmUTZpU2dlU0J5Y0h4Snh1V1MyeEdXWDJEVks?oc=5
+- **Slocum Independent School District (Texas)** — Slocum Board of Trustees approves new tax rates - yahoo.com  
+  - Other • score **45** (r12, b6, s0, f15, c12) • 2025-08-09T07:00  
+  - https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjJRTTVhTnRHZEgzakhhV0pnVVdVczdET3EwZXZZeXlsaXM2OXduVFcwelpueDd2MXhwTWF1bkZrWnEwWUJ4bkV6MF9FMVdOYVNDbXNzZGU0V1dQcmZVc3hVZktIU3dxUlNuR0Jsbk1MOGJFZmlRRWw5bTdyS25kTmJlWEJpQkM2dV83RWpB?oc=5
+- **Slocum Independent School District (Texas)** — Slocum Board of Trustees approves new tax rates - Palestineherald.com  
+  - Other • score **45** (r12, b6, s0, f15, c12) • 2025-08-09T07:00  
+  - https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDNuZjdrTUd2ZjRHbjVXdXJ6VHpMaU9SejJ1b1R4UVo2SEVYOVV1RW4walRjNjFvNGhsLVZET3RGd0s5T2JKbzdCcTAtYnotNnBQN2xCYVkwUTBTemxRUGxaQ0M1VGlDYVdZdUFtRktRZWlpU012dDVnUVgwRjZwa04yT2QwRVdKc05PVzRYVVZEejBOQ1hLSmlWQ1lDQnViVmoyZndhalQ1Y1R6V3hfTlF0Z3BVeHZMWEZvMkh0MzJmX1UtVE9Jcm13X2hCMkV2NktTaXR3?oc=5
+- **Hearne Independent School District (Texas)** — Texas' insurance crisis is hitting an unexpected target: Public schools - Houston Chronicle  
+  - Other • score **33** (r0, b6, s0, f15, c12) • 2025-04-23T07:00  
+  - https://news.google.com/rss/articles/CBMipAFBVV95cUxPRExuZkkyaE5GTHBDWTh0aE56UFhzYm9OdzVRVVUwZE4ycHZjUkdhekNFdWhBeGUxQUFUWlplYm1zOUpNMXZ2SGxhWlBVbmp4MDRXZzI2aDZCTjhMMm5yWjdObXQtNlNsc2dTS1JJeW5FZl9NdklvZjBiOU5UQmxhQWF3d2V2NUNNZ282WHQ1M1lYd3VhLTc5cnl6elZkNmZUNjVzRA?oc=5
+- **Hearne Independent School District (Texas)** — Historic Davis Gym demolition stirs up memories for Hearne community - KXXV  
+  - Other • score **45** (r12, b6, s0, f15, c12) • 2025-07-31T07:00  
+  - https://news.google.com/rss/articles/CBMixAFBVV95cUxNT21xS2Nva3hnMVl4Z21ZaGl1RUJBZU1kUEd5UV81X1M2M01CbFZ1Ry1TTXJZcDN0YnVrNnQwZlhKZkxKUmZxUXRRYjRnX3B1cHlpdGRDdEllVG14bHVERlJfZThobXpWWFRTRTBqeUlVVU9LZEFwTlB5Y2lha2cyRWs2NnFiSHUwVkp1VnlkcnJoekFjaDAyTHo3ZC1hNUo3RVhMdDhsNTI1Yko0QkdkTWEtdFNiZ0xNeDZXamFIR3NGSlBy?oc=5
+- **Granger Independent School District (Texas)** — Water troubles delay move to high school - Taylor Press  
+  - Other • score **46** (r12, b6, s0, f16, c12) • 2025-08-10T04:03  
+  - https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2F6T3UxdGZBbk52elk2RHZhNUJpQk9wTHFRdFdjNVZQWmJPZjFmbEUwZVE5UDlMSDBjblNvTjIxNWFhWFlLR2ZmME8tOWZsekNQVS03TV9yb3BPYjJqM2RfYlcyNFRxamp3R1FJZVBhdHAtRVJNZF9tS2lORk1Kd0hJaU5rMjhuVnc?oc=5
+- **Granger Independent School District (Texas)** — Granger school board plans to cut food costs - Taylor Press  
+  - Other • score **34** (r0, b6, s0, f16, c12) • 2025-05-17T07:00  
+  - https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjVGeVRMZ1JaQUhuRV8ydVhYU0ozUFZ0R25iQlBSVVdKWXE0RkJCTU1CeHJqaDBWVUJaX3FteTA3Tjl4eG00TzlDWmtTQ0pmOW4tR2JUWnVEemVvbzB6T1ZFQm1Fc0dhQ2wwanFCS1ZxWEg2YTAzOW8yYXRJSUZETlgyRk45cE5KbFFkdFFnRQ?oc=5
+- **Granger Independent School District (Texas)** — Granger Water Woes - Taylor Press  
+  - Other • score **59** (r25, b6, s0, f16, c12) • 2025-08-20T11:59  
+  - https://news.google.com/rss/articles/CBMibEFVX3lxTE1paEpVWEJQVEZjcUdVd2N3b1lHY1pQNFY2TEdicjFfZXZpNnNId2Vyd1BpZTFJLTdaNzNsTnd6TUJteEN0dmRBLVV0SWdKREVYNjlLMm5Jd0RoZl9yM19iRGtHa1otSGQzVGJaWg?oc=5
+- **Liberty Union High School District (Arizona)** — Potential federal budget cuts could harm LUHSD theme of ‘legacy’ in new school year - thepress.net  
+  - Other • score **59** (r12, b18, s0, f17, c12) • 2025-07-25T07:00  
+  - https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNldnUFNqaEV1bmEya3NjR0FsTUpEdGVmMWtWWnhCUXhuRFpJdWh5Q1M1RmpWZG1Sam9IUTY2bXlDRkRFbzQtbnozb3I5UkVXUHhpUmR3UGFhTENDMlZzVlZjN2R2UFJianloWEZpYjRIcHBRVGwxbng2VGtzdnVVSk13RS1pSmE4a1N5dDFHX25VeW03WVE2WnVkQkQxd0VtS0pGTXZNTVVXbzBXTVkzd3VOOXI3b1NtT0RxYW1FTENnd3hWSGI4Mi1iUGZHaURJcmpnQmFTaXNWak1wdEU0RUpsNUpqWEYtRjNBb2tVbXdRV2M?oc=5
+- **Phoenix Union High School District (Arizona)** — August 2025 Industry News: Phoenix High School Project Enhances CTE Programming - Engineering News-Record | ENR  
+  - Programs & Press • score **66** (r25, b6, s6, f17, c12) • 2025-08-18T16:00  
+  - https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVkyQjF2UTc4cnJtSm5Lb1J4LU1DS0NHMjhXcXFoaDcyVU56VTQ0QlRNbl9GZWVhanc3Qm9fTTdEQ3htM1hmMjJiZEtuX0QwX05uTDB6ME82QTNRMXB4dDVTREV3Q3VWM1BkRjNxQWs4UE1HdlFXd21EN2hFeE5uSUJqR1Q2TDNwWU5RRm5HQVhxZWhXZGZsS3NNTEpTUElfN3gydHRESVc2QURaUml0N010TQ?oc=5
+- **Phoenix Union High School District (Arizona)** — Metro Tech High School Undergoes Major Modernization to Elevate CTE Education - School Construction News  
+  - Funding & Facilities • score **53** (r12, b6, s6, f17, c12) • 2025-07-30T07:00  
+  - https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNms5amVTLXkydHo4SnJ0VjYxNzJRYndLWVVVSjkzUmUtcU1oRXpvVXZ4VHJWOXhyR3puNWg2amkxbnJidURIWWx4UlB5SV8xQkFFck54c09fa3pNXzdCQ1R4VEI3QnoxbHJ0Y1pzMHZiQmR3dUxDQ1BmT01xUko1WFQxd0VEY2ZhNUppaG1SdEtZbHFsb2FvZTZYcDliVC1EcTZLeFFFZDlQVE5QUTBreXVORXVBMkFBc3h4emxDR0RSQQ?oc=5
+- **Liberty Elementary School District (Arizona)** — West Valley School districts offering free lunches for students - The Glendale Star  
+  - Other • score **38** (r6, b6, s0, f14, c12) • 2025-07-08T07:00  
+  - https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZzZkbU9pb2NxU1VkQWRGdWhkYTJGM2J0MVhMeXBRMTNEdmRCMzFwSEYzQnQ3U3AzaWFJak04Z0tER2NSeHU0d2pWbUhSR00yZ0tLMjV1WENuWmRPc0RqWkZENWtBWW8wbUFGZzFDSHZ2SWtETE5IWXNFRzZQdHBNS3RhbUpGYnZJaEZxM1BSMkgwRjdSaWt5MjdtbW15WER3R2ZpdU55M0FNLUpnTmdiZUJoa0EybFJGSUxKS1lLUG1Kb2FsWlc2Z2JjNFJkSVBtQXpYOWJkcE5hRmRQdk9FVkpR?oc=5
+- **Phoenix Elementary School District (Arizona)** — Receiver explains how Isaac School District found itself with $28M budget crisis - KTAR News 92.3 FM  
+  - Other • score **47** (r0, b18, s0, f17, c12) • 2025-05-20T07:00  
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTE8yYWpoQVltb29wQWdHQjRHbWdCOVZ2UkVqcmoxN2xEU0FPT2d2RUN3aWxkanUwNHNVdzZkZHlXVElOY3lJOGxTQTNzcVlGMlFLdlVYWjJ5d0JvN0xfamcwelYtbTRiUU5QbFp1RWZJS3VaRjdoVVA1TjZwcjg1NmM?oc=5
+- **Peoria Unified School District (Arizona)** — Arizona federal lawmakers demand Trump release education funds to state - Glendale Independent - yourvalley.net  
+  - Other • score **43** (r6, b6, s0, f19, c12) • 2025-07-09T07:00  
+  - https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVdGVUNnWE1XMWJFNGtQSlNsNFE2SjJsdTVRc3dQSmJoZ01iX1BtX2dYUVIycFRVanp6cDRBbDUzYU5CaXFIU0w0c1k3T09YNm5OUjhULTJYc1h4MXFtR3N3R3RnT3ppbFJHdVBUaHpWakNFZEZkZTZmOGh3QV9xekFwdkxZTFZSMnljdFNYdG5hNnFzb291UThGVWMzU0luaWxycklvaVNMQ3lGTHQtR3MxWU12QTIyU25aVU1NcV8xMG5OX0UtR0sxTUk4blk?oc=5
+- **Peoria Unified School District (Arizona)** — DEI allegations made against Scottsdale school district - KTAR News 92.3 FM  
+  - Other • score **43** (r6, b6, s0, f19, c12) • 2025-06-13T07:00  
+  - https://news.google.com/rss/articles/CBMifEFVX3lxTE81MnFEckxBMmU0R3h4amRsLVlIT2h2R3dyWFMwOHN3ZGY3R2Q5MTY0RVg4a2NxeGNIVW03X1EtZDFabkM4c3Zrd1FXTk9VWkRfUlY0SjhramkxNUN5OHlBZC10cFVqNGdPdndYdUdMaVRtY0JCVG1qXzNPYXk?oc=5
+- **Higley Unified School District (Arizona)** — Queen Creek Unified School District, others extol CTE satellites - Queen Creek Tribune  
+  - Other • score **54** (r12, b6, s6, f18, c12) • 2025-08-10T07:00  
+  - https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNUdqVEkyMUxlV05GVHhLb1ZTZmpxUWtMYWtMd2V2cXp0M0VVZm1CUG0zUE5ORnBnLXdyYS0teTBvZk85R1p0aUJTazEyakgzVTA1M295ZUdCMUV1c2twSHRDOUVhNDNyRUIxUHdxVzlXQ0JkTE9nUS1ZZWJCeDMtbkZlRjVmNHliU3cwYkRLLVBkTFdhM2F4SnJsS3l4eTFjZGJwTXdaRjlnZE8wb29jSm9zalZkdFZYUEpCU3d6UEJkUmgzb2s3ZDVYSU5UcHd2aVhmV0tjM3NGSVhlTXRyQ0xiRWZ1X3M?oc=5
+- **Higley Unified School District (Arizona)** — East Valley district offers summer programs to keep students engaged over break - azcentral.com and The Arizona Republic  
+  - Other • score **36** (r0, b6, s0, f18, c12) • 2025-05-03T07:00  
+  - https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT21ocVdNSE1jTDR2SFZLRTZEc2YtZFJOcFN0ZFREYjc1djdwaEtBOExkSUxtaDRhVHBxNS13V0ItR09tNUhmdkhaNWR1TXg0OXNpbG14bk9ycEFoc1RDQ1BhTU1ZQnhGTVFOVXJyS2UxcjhLaHVVSkYyMEdRS0JGYjZaSmtNMW1GVWUzRnBGelJsYVlST25ldnBwWjdiTzhBVzdZa3ZnU2Vvd0piUmtDRGhkenplOU11b0dsTnlJeTd3X1ZQWmhuMHRDYVFFRS15UlF2YXZwcktsdHFqdGNIbndKRmI?oc=5
+- **Higley Unified School District (Arizona)** — Two Valley districts cut millions from budget this school year after ballot measures failed - ABC15 Arizona  
+  - Other • score **60** (r12, b18, s0, f18, c12) • 2025-07-21T07:00  
+  - https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkxRSWxPVUZ0UDdtallBRWJHZ3NNRXd5dE5yWldYbkFKbmt5QU9Rekkxc1dmX0hidGJjaThSdkFldWhJdEM4cllVeHJaMWhRd1BtQWdiaVJISTIxR2ZnYXo5ZTZQLW5vdk1zLWU0TXR2MEczcXJOMUFqRkF5aUd2Undhdk5GTzQ3SkpqZHJxOVFvU0RSd1NCOTFEVHdPY2tGNHhYSWduNS0xY29MbzFWR25zbkd1UHRrN0xSUjZndkgyUkFlZ3ZHODJ1WUg3RDNzdlBuMjFiaw?oc=5
+- **Higley Unified School District (Arizona)** — Businessman claims charter school favoritism in Legislature led to criminal charges - Arizona Capitol Times  
+  - Other • score **42** (r6, b6, s0, f18, c12) • 2025-05-29T07:00  
+  - https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2liNjJfQ1Z0N3Ata0pONU5kZ1kzOWNPWXZUYzlwZ0luMl9Bd2dvOGtMNGRVejUwWFM1Q1N1aUdabFQtaWJrTl9HRWRoTElGMGN0c3hENlBXU2E0N211ZzE0ZDg4emRhdmZvanVEazkydVYyQzJSWldQS21QMWJaSnJsdWhKUWNjNENyVHM1aEF5R1RMOFFJcG1VM2NvWXNyQ2FOdHM5NXJTelliVmV0S2lYV1NTX3pQb3JPS1Exb3UwX0k2cWc?oc=5
+- **Dysart Unified School District (Arizona)** — This district just gave Arizona lawmakers even more fuel to burn public schools | Opinion - azcentral.com and The Arizona Republic  
+  - Other • score **47** (r12, b6, s0, f17, c12) • 2025-07-28T07:00  
+  - https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXlqUjdXd0EyVGs2ZUY3c3pWVXdWckYwS2tnV1pWR05qaE0tSUF0eGpPQW1zbTEzemw2MXUyZ2RWc0owNEdDT3VqZ3YxN21TMUZxbmxDLUx2cjhXN3BheUVwZWZDaHUwQXNkcmFycTNObTZmelZuY3BUb0hMQkZEeUI4Wnc3ZUFJLXhuSjkzay03R1JJeUI1aEUxUHlVVHdHTUlKN09lSllyWWdyVDNRbVUtOVk1S2lHY3ZqS05HSjlBQjZZSkY0XzZoM2JGS1ZUalE?oc=5
+- **Dysart Unified School District (Arizona)** — Amid financial strain, Arizona school district trims bus transportation - 12News  
+  - Other • score **35** (r0, b6, s0, f17, c12) • 2025-05-02T07:00  
+  - https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR0laVXNxUGFSRml4Nl9ubC10ekpidHJmcElSWTE4akFQTFh3cS1TUkoxZVRZQ04zZk9iTHFoQTZTZ1hvTzJSVUk2OG1FN0ROdEZURDM2Rm0tdlZMZER1ZmtXdVNsQWdWd29aTEdVSkpzRjctUTg2dFM3cVlyMU1Cc2Y2Umswclo0dktrRWVuSXp2dk9mVDZ4My1ENTRBOExkcTU0Y21nYzV2dzVTczBid0xZVUtTMU1raWJTVGJFZUpRTVg5a1JSbzRJZXpHcklyOXF0Yzk0R2dGMU1SZEpCWlRLRTNWSlgy?oc=5
+- **Dysart Unified School District (Arizona)** — Arizona school districts can’t keep pace with rising AC and water costs - 12News  
+  - Other • score **41** (r6, b6, s0, f17, c12) • 2025-05-31T07:00  
+  - https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGtPMjF2OTl3Q0VkZmVpRXFrVk9iMTQxVWFoVzJBTm94VzR5aTE5MWZVX3NsOFkzSWFINDY2YXZzRWdXMTNXdGJvS3JZSm9YRnhnUzRSXy0wbzE5ajRoUm9QcnV2RXJDNmh5V0pGQ2dSU01xS3poYmFxTEFINHJYaHpfaklTdW5fYTRweTBZUDQ3V1liWWFQcEIyajN4RDR4Q0ZQNXc2RVg5OHVMX3drRFU4TXBUc0JDTnFJMDc4Y3RrQkF0SmVuTHZ0UQ?oc=5

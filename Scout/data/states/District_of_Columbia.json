@@ -1,0 +1,12 @@
+{
+  "state": "District of Columbia",
+  "counties": {
+    "District Of Columbia": {
+      "status": "pending",
+      "runs": 0,
+      "last_run": null,
+      "notes": ""
+    }
+  },
+  "created": "2025-08-20T14:21:00.235663"
+}

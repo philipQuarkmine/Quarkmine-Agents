@@ -1,0 +1,155 @@
+{
+  "Alabama": [
+    ".k12.al.us"
+  ],
+  "Alaska": [
+    ".k12.ak.us"
+  ],
+  "Arizona": [
+    ".k12.az.us"
+  ],
+  "Arkansas": [
+    ".k12.ar.us"
+  ],
+  "California": [
+    ".k12.ca.us"
+  ],
+  "Colorado": [
+    ".k12.co.us"
+  ],
+  "Connecticut": [
+    ".k12.ct.us"
+  ],
+  "Delaware": [
+    ".k12.de.us"
+  ],
+  "District of Columbia": [
+    ".k12.dc.us"
+  ],
+  "Florida": [
+    ".k12.fl.us"
+  ],
+  "Georgia": [
+    ".k12.ga.us"
+  ],
+  "Hawaii": [
+    ".k12.hi.us"
+  ],
+  "Idaho": [
+    ".k12.id.us"
+  ],
+  "Illinois": [
+    ".k12.il.us"
+  ],
+  "Indiana": [
+    ".k12.in.us"
+  ],
+  "Iowa": [
+    ".k12.ia.us"
+  ],
+  "Kansas": [
+    ".k12.ks.us"
+  ],
+  "Kentucky": [
+    ".k12.ky.us"
+  ],
+  "Louisiana": [
+    ".k12.la.us"
+  ],
+  "Maine": [
+    ".k12.me.us"
+  ],
+  "Maryland": [
+    ".k12.md.us"
+  ],
+  "Massachusetts": [
+    ".k12.ma.us"
+  ],
+  "Michigan": [
+    ".k12.mi.us"
+  ],
+  "Minnesota": [
+    ".k12.mn.us"
+  ],
+  "Mississippi": [
+    ".k12.ms.us"
+  ],
+  "Missouri": [
+    ".k12.mo.us"
+  ],
+  "Montana": [
+    ".k12.mt.us"
+  ],
+  "Nebraska": [
+    ".k12.ne.us"
+  ],
+  "Nevada": [
+    ".k12.nv.us"
+  ],
+  "New Hampshire": [
+    ".k12.nh.us"
+  ],
+  "New Jersey": [
+    ".k12.nj.us"
+  ],
+  "New Mexico": [
+    ".k12.nm.us"
+  ],
+  "New York": [
+    ".k12.ny.us"
+  ],
+  "North Carolina": [
+    ".k12.nc.us"
+  ],
+  "North Dakota": [
+    ".k12.nd.us"
+  ],
+  "Ohio": [
+    ".k12.oh.us"
+  ],
+  "Oklahoma": [
+    ".k12.ok.us"
+  ],
+  "Oregon": [
+    ".k12.or.us"
+  ],
+  "Pennsylvania": [
+    ".k12.pa.us"
+  ],
+  "Rhode Island": [
+    ".k12.ri.us"
+  ],
+  "South Carolina": [
+    ".k12.sc.us"
+  ],
+  "South Dakota": [
+    ".k12.sd.us"
+  ],
+  "Tennessee": [
+    ".k12.tn.us"
+  ],
+  "Texas": [
+    ".k12.tx.us"
+  ],
+  "Utah": [
+    ".k12.ut.us"
+  ],
+  "Vermont": [
+    ".k12.vt.us"
+  ],
+  "Virginia": [
+    ".k12.va.us"
+  ],
+  "Washington": [
+    ".k12.wa.us"
+  ],
+  "West Virginia": [
+    ".k12.wv.us"
+  ],
+  "Wisconsin": [
+    ".k12.wi.us"
+  ],
+  "Wyoming": [
+    ".k12.wy.us"
+  ]
+}

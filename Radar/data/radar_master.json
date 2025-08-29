@@ -1,0 +1,574 @@
+{
+  "signals": [
+    {
+      "id": "arizona-dysart-unified-school-district-this-district-just-gave-arizona-lawmakers-even-more-fuel-to-burn-public-schools-opinion-a",
+      "state": "Arizona",
+      "district": "Dysart Unified School District",
+      "source_county": "Maricopa",
+      "title": "This district just gave Arizona lawmakers even more fuel to burn public schools | Opinion - azcentral.com and The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXlqUjdXd0EyVGs2ZUY3c3pWVXdWckYwS2tnV1pWR05qaE0tSUF0eGpPQW1zbTEzemw2MXUyZ2RWc0owNEdDT3VqZ3YxN21TMUZxbmxDLUx2cjhXN3BheUVwZWZDaHUwQXNkcmFycTNObTZmelZuY3BUb0hMQkZEeUI4Wnc3ZUFJLXhuSjkzay03R1JJeUI1aEUxUHlVVHdHTUlKN09lSllyWWdyVDNRbVUtOVk1S2lHY3ZqS05HSjlBQjZZSkY0XzZoM2JGS1ZUalE?oc=5",
+      "published": "2025-07-28T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 47,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 0,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:18.794295+00:00"
+    },
+    {
+      "id": "arizona-dysart-unified-school-district-amid-financial-strain-arizona-school-district-trims-bus-transportation-12news-https-news-",
+      "state": "Arizona",
+      "district": "Dysart Unified School District",
+      "source_county": "Maricopa",
+      "title": "Amid financial strain, Arizona school district trims bus transportation - 12News",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR0laVXNxUGFSRml4Nl9ubC10ekpidHJmcElSWTE4akFQTFh3cS1TUkoxZVRZQ04zZk9iTHFoQTZTZ1hvTzJSVUk2OG1FN0ROdEZURDM2Rm0tdlZMZER1ZmtXdVNsQWdWd29aTEdVSkpzRjctUTg2dFM3cVlyMU1Cc2Y2Umswclo0dktrRWVuSXp2dk9mVDZ4My1ENTRBOExkcTU0Y21nYzV2dzVTczBid0xZVUtTMU1raWJTVGJFZUpRTVg5a1JSbzRJZXpHcklyOXF0Yzk0R2dGMU1SZEpCWlRLRTNWSlgy?oc=5",
+      "published": "2025-05-02T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 35,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:18.794295+00:00"
+    },
+    {
+      "id": "arizona-dysart-unified-school-district-arizona-school-districts-can-t-keep-pace-with-rising-ac-and-water-costs-12news-https-news",
+      "state": "Arizona",
+      "district": "Dysart Unified School District",
+      "source_county": "Maricopa",
+      "title": "Arizona school districts can’t keep pace with rising AC and water costs - 12News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGtPMjF2OTl3Q0VkZmVpRXFrVk9iMTQxVWFoVzJBTm94VzR5aTE5MWZVX3NsOFkzSWFINDY2YXZzRWdXMTNXdGJvS3JZSm9YRnhnUzRSXy0wbzE5ajRoUm9QcnV2RXJDNmh5V0pGQ2dSU01xS3poYmFxTEFINHJYaHpfaklTdW5fYTRweTBZUDQ3V1liWWFQcEIyajN4RDR4Q0ZQNXc2RVg5OHVMX3drRFU4TXBUc0JDTnFJMDc4Y3RrQkF0SmVuTHZ0UQ?oc=5",
+      "published": "2025-05-31T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 41,
+      "breakdown": {
+        "recency": 6,
+        "budget": 6,
+        "stem": 0,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:18.794295+00:00"
+    },
+    {
+      "id": "arizona-higley-unified-school-district-queen-creek-unified-school-district-others-extol-cte-satellites-queen-creek-tribune-https",
+      "state": "Arizona",
+      "district": "Higley Unified School District",
+      "source_county": "Maricopa",
+      "title": "Queen Creek Unified School District, others extol CTE satellites - Queen Creek Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNUdqVEkyMUxlV05GVHhLb1ZTZmpxUWtMYWtMd2V2cXp0M0VVZm1CUG0zUE5ORnBnLXdyYS0teTBvZk85R1p0aUJTazEyakgzVTA1M295ZUdCMUV1c2twSHRDOUVhNDNyRUIxUHdxVzlXQ0JkTE9nUS1ZZWJCeDMtbkZlRjVmNHliU3cwYkRLLVBkTFdhM2F4SnJsS3l4eTFjZGJwTXdaRjlnZE8wb29jSm9zalZkdFZYUEpCU3d6UEJkUmgzb2s3ZDVYSU5UcHd2aVhmV0tjM3NGSVhlTXRyQ0xiRWZ1X3M?oc=5",
+      "published": "2025-08-10T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 54,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 6,
+        "fit": 18,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:21.095900+00:00"
+    },
+    {
+      "id": "arizona-higley-unified-school-district-east-valley-district-offers-summer-programs-to-keep-students-engaged-over-break-azcentral",
+      "state": "Arizona",
+      "district": "Higley Unified School District",
+      "source_county": "Maricopa",
+      "title": "East Valley district offers summer programs to keep students engaged over break - azcentral.com and The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT21ocVdNSE1jTDR2SFZLRTZEc2YtZFJOcFN0ZFREYjc1djdwaEtBOExkSUxtaDRhVHBxNS13V0ItR09tNUhmdkhaNWR1TXg0OXNpbG14bk9ycEFoc1RDQ1BhTU1ZQnhGTVFOVXJyS2UxcjhLaHVVSkYyMEdRS0JGYjZaSmtNMW1GVWUzRnBGelJsYVlST25ldnBwWjdiTzhBVzdZa3ZnU2Vvd0piUmtDRGhkenplOU11b0dsTnlJeTd3X1ZQWmhuMHRDYVFFRS15UlF2YXZwcktsdHFqdGNIbndKRmI?oc=5",
+      "published": "2025-05-03T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 36,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 18,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:21.095900+00:00"
+    },
+    {
+      "id": "arizona-higley-unified-school-district-two-valley-districts-cut-millions-from-budget-this-school-year-after-ballot-measures-fail",
+      "state": "Arizona",
+      "district": "Higley Unified School District",
+      "source_county": "Maricopa",
+      "title": "Two Valley districts cut millions from budget this school year after ballot measures failed - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkxRSWxPVUZ0UDdtallBRWJHZ3NNRXd5dE5yWldYbkFKbmt5QU9Rekkxc1dmX0hidGJjaThSdkFldWhJdEM4cllVeHJaMWhRd1BtQWdiaVJISTIxR2ZnYXo5ZTZQLW5vdk1zLWU0TXR2MEczcXJOMUFqRkF5aUd2Undhdk5GTzQ3SkpqZHJxOVFvU0RSd1NCOTFEVHdPY2tGNHhYSWduNS0xY29MbzFWR25zbkd1UHRrN0xSUjZndkgyUkFlZ3ZHODJ1WUg3RDNzdlBuMjFiaw?oc=5",
+      "published": "2025-07-21T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 60,
+      "breakdown": {
+        "recency": 12,
+        "budget": 18,
+        "stem": 0,
+        "fit": 18,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:21.095900+00:00"
+    },
+    {
+      "id": "arizona-higley-unified-school-district-businessman-claims-charter-school-favoritism-in-legislature-led-to-criminal-charges-arizo",
+      "state": "Arizona",
+      "district": "Higley Unified School District",
+      "source_county": "Maricopa",
+      "title": "Businessman claims charter school favoritism in Legislature led to criminal charges - Arizona Capitol Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2liNjJfQ1Z0N3Ata0pONU5kZ1kzOWNPWXZUYzlwZ0luMl9Bd2dvOGtMNGRVejUwWFM1Q1N1aUdabFQtaWJrTl9HRWRoTElGMGN0c3hENlBXU2E0N211ZzE0ZDg4emRhdmZvanVEazkydVYyQzJSWldQS21QMWJaSnJsdWhKUWNjNENyVHM1aEF5R1RMOFFJcG1VM2NvWXNyQ2FOdHM5NXJTelliVmV0S2lYV1NTX3pQb3JPS1Exb3UwX0k2cWc?oc=5",
+      "published": "2025-05-29T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 42,
+      "breakdown": {
+        "recency": 6,
+        "budget": 6,
+        "stem": 0,
+        "fit": 18,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:21.095900+00:00"
+    },
+    {
+      "id": "arizona-peoria-unified-school-district-arizona-federal-lawmakers-demand-trump-release-education-funds-to-state-glendale-independ",
+      "state": "Arizona",
+      "district": "Peoria Unified School District",
+      "source_county": "Maricopa",
+      "title": "Arizona federal lawmakers demand Trump release education funds to state - Glendale Independent - yourvalley.net",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVdGVUNnWE1XMWJFNGtQSlNsNFE2SjJsdTVRc3dQSmJoZ01iX1BtX2dYUVIycFRVanp6cDRBbDUzYU5CaXFIU0w0c1k3T09YNm5OUjhULTJYc1h4MXFtR3N3R3RnT3ppbFJHdVBUaHpWakNFZEZkZTZmOGh3QV9xekFwdkxZTFZSMnljdFNYdG5hNnFzb291UThGVWMzU0luaWxycklvaVNMQ3lGTHQtR3MxWU12QTIyU25aVU1NcV8xMG5OX0UtR0sxTUk4blk?oc=5",
+      "published": "2025-07-09T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 43,
+      "breakdown": {
+        "recency": 6,
+        "budget": 6,
+        "stem": 0,
+        "fit": 19,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:22.629942+00:00"
+    },
+    {
+      "id": "arizona-peoria-unified-school-district-dei-allegations-made-against-scottsdale-school-district-ktar-news-92-3-fm-https-news-goog",
+      "state": "Arizona",
+      "district": "Peoria Unified School District",
+      "source_county": "Maricopa",
+      "title": "DEI allegations made against Scottsdale school district - KTAR News 92.3 FM",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81MnFEckxBMmU0R3h4amRsLVlIT2h2R3dyWFMwOHN3ZGY3R2Q5MTY0RVg4a2NxeGNIVW03X1EtZDFabkM4c3Zrd1FXTk9VWkRfUlY0SjhramkxNUN5OHlBZC10cFVqNGdPdndYdUdMaVRtY0JCVG1qXzNPYXk?oc=5",
+      "published": "2025-06-13T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 43,
+      "breakdown": {
+        "recency": 6,
+        "budget": 6,
+        "stem": 0,
+        "fit": 19,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:22.629942+00:00"
+    },
+    {
+      "id": "arizona-phoenix-elementary-school-district-receiver-explains-how-isaac-school-district-found-itself-with-28m-budget-crisis-ktar-",
+      "state": "Arizona",
+      "district": "Phoenix Elementary School District",
+      "source_county": "Maricopa",
+      "title": "Receiver explains how Isaac School District found itself with $28M budget crisis - KTAR News 92.3 FM",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yYWpoQVltb29wQWdHQjRHbWdCOVZ2UkVqcmoxN2xEU0FPT2d2RUN3aWxkanUwNHNVdzZkZHlXVElOY3lJOGxTQTNzcVlGMlFLdlVYWjJ5d0JvN0xfamcwelYtbTRiUU5QbFp1RWZJS3VaRjdoVVA1TjZwcjg1NmM?oc=5",
+      "published": "2025-05-20T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 47,
+      "breakdown": {
+        "recency": 0,
+        "budget": 18,
+        "stem": 0,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:23.317041+00:00"
+    },
+    {
+      "id": "arizona-liberty-elementary-school-district-west-valley-school-districts-offering-free-lunches-for-students-the-glendale-star-htt",
+      "state": "Arizona",
+      "district": "Liberty Elementary School District",
+      "source_county": "Maricopa",
+      "title": "West Valley School districts offering free lunches for students - The Glendale Star",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZzZkbU9pb2NxU1VkQWRGdWhkYTJGM2J0MVhMeXBRMTNEdmRCMzFwSEYzQnQ3U3AzaWFJak04Z0tER2NSeHU0d2pWbUhSR00yZ0tLMjV1WENuWmRPc0RqWkZENWtBWW8wbUFGZzFDSHZ2SWtETE5IWXNFRzZQdHBNS3RhbUpGYnZJaEZxM1BSMkgwRjdSaWt5MjdtbW15WER3R2ZpdU55M0FNLUpnTmdiZUJoa0EybFJGSUxKS1lLUG1Kb2FsWlc2Z2JjNFJkSVBtQXpYOWJkcE5hRmRQdk9FVkpR?oc=5",
+      "published": "2025-07-08T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 38,
+      "breakdown": {
+        "recency": 6,
+        "budget": 6,
+        "stem": 0,
+        "fit": 14,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:28.724056+00:00"
+    },
+    {
+      "id": "arizona-phoenix-union-high-school-district-august-2025-industry-news-phoenix-high-school-project-enhances-cte-programming-engine",
+      "state": "Arizona",
+      "district": "Phoenix Union High School District",
+      "source_county": "Maricopa",
+      "title": "August 2025 Industry News: Phoenix High School Project Enhances CTE Programming - Engineering News-Record | ENR",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVkyQjF2UTc4cnJtSm5Lb1J4LU1DS0NHMjhXcXFoaDcyVU56VTQ0QlRNbl9GZWVhanc3Qm9fTTdEQ3htM1hmMjJiZEtuX0QwX05uTDB6ME82QTNRMXB4dDVTREV3Q3VWM1BkRjNxQWs4UE1HdlFXd21EN2hFeE5uSUJqR1Q2TDNwWU5RRm5HQVhxZWhXZGZsS3NNTEpTUElfN3gydHRESVc2QURaUml0N010TQ?oc=5",
+      "published": "2025-08-18T16:00:00+00:00",
+      "trigger": "Programs & Press",
+      "score": 66,
+      "breakdown": {
+        "recency": 25,
+        "budget": 6,
+        "stem": 6,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:30.816665+00:00"
+    },
+    {
+      "id": "arizona-phoenix-union-high-school-district-metro-tech-high-school-undergoes-major-modernization-to-elevate-cte-education-school-",
+      "state": "Arizona",
+      "district": "Phoenix Union High School District",
+      "source_county": "Maricopa",
+      "title": "Metro Tech High School Undergoes Major Modernization to Elevate CTE Education - School Construction News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNms5amVTLXkydHo4SnJ0VjYxNzJRYndLWVVVSjkzUmUtcU1oRXpvVXZ4VHJWOXhyR3puNWg2amkxbnJidURIWWx4UlB5SV8xQkFFck54c09fa3pNXzdCQ1R4VEI3QnoxbHJ0Y1pzMHZiQmR3dUxDQ1BmT01xUko1WFQxd0VEY2ZhNUppaG1SdEtZbHFsb2FvZTZYcDliVC1EcTZLeFFFZDlQVE5QUTBreXVORXVBMkFBc3h4emxDR0RSQQ?oc=5",
+      "published": "2025-07-30T07:00:00+00:00",
+      "trigger": "Funding & Facilities",
+      "score": 53,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 6,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:30.816665+00:00"
+    },
+    {
+      "id": "arizona-liberty-union-high-school-district-potential-federal-budget-cuts-could-harm-luhsd-theme-of-legacy-in-new-school-year-the",
+      "state": "Arizona",
+      "district": "Liberty Union High School District",
+      "source_county": "Maricopa",
+      "title": "Potential federal budget cuts could harm LUHSD theme of ‘legacy’ in new school year - thepress.net",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNldnUFNqaEV1bmEya3NjR0FsTUpEdGVmMWtWWnhCUXhuRFpJdWh5Q1M1RmpWZG1Sam9IUTY2bXlDRkRFbzQtbnozb3I5UkVXUHhpUmR3UGFhTENDMlZzVlZjN2R2UFJianloWEZpYjRIcHBRVGwxbng2VGtzdnVVSk13RS1pSmE4a1N5dDFHX25VeW03WVE2WnVkQkQxd0VtS0pGTXZNTVVXbzBXTVkzd3VOOXI3b1NtT0RxYW1FTENnd3hWSGI4Mi1iUGZHaURJcmpnQmFTaXNWak1wdEU0RUpsNUpqWEYtRjNBb2tVbXdRV2M?oc=5",
+      "published": "2025-07-25T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 59,
+      "breakdown": {
+        "recency": 12,
+        "budget": 18,
+        "stem": 0,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:02:32.324375+00:00"
+    },
+    {
+      "id": "texas-granger-independent-school-district-granger-school-board-plans-to-cut-food-costs-taylor-press-https-news-google-com-rss-ar",
+      "state": "Texas",
+      "district": "Granger Independent School District",
+      "source_county": "Anderson",
+      "title": "Granger school board plans to cut food costs - Taylor Press",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjVGeVRMZ1JaQUhuRV8ydVhYU0ozUFZ0R25iQlBSVVdKWXE0RkJCTU1CeHJqaDBWVUJaX3FteTA3Tjl4eG00TzlDWmtTQ0pmOW4tR2JUWnVEemVvbzB6T1ZFQm1Fc0dhQ2wwanFCS1ZxWEg2YTAzOW8yYXRJSUZETlgyRk45cE5KbFFkdFFnRQ?oc=5",
+      "published": "2025-05-17T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 34,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 16,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:03.816732+00:00"
+    },
+    {
+      "id": "texas-granger-independent-school-district-granger-water-woes-taylor-press-https-news-google-com-rss-articles-cbmibefvx3lxte1paep",
+      "state": "Texas",
+      "district": "Granger Independent School District",
+      "source_county": "Anderson",
+      "title": "Granger Water Woes - Taylor Press",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1paEpVWEJQVEZjcUdVd2N3b1lHY1pQNFY2TEdicjFfZXZpNnNId2Vyd1BpZTFJLTdaNzNsTnd6TUJteEN0dmRBLVV0SWdKREVYNjlLMm5Jd0RoZl9yM19iRGtHa1otSGQzVGJaWg?oc=5",
+      "published": "2025-08-20T11:59:28+00:00",
+      "trigger": "Other",
+      "score": 59,
+      "breakdown": {
+        "recency": 25,
+        "budget": 6,
+        "stem": 0,
+        "fit": 16,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:03.816732+00:00"
+    },
+    {
+      "id": "texas-granger-independent-school-district-water-troubles-delay-move-to-high-school-taylor-press-https-news-google-com-rss-articl",
+      "state": "Texas",
+      "district": "Granger Independent School District",
+      "source_county": "Anderson",
+      "title": "Water troubles delay move to high school - Taylor Press",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2F6T3UxdGZBbk52elk2RHZhNUJpQk9wTHFRdFdjNVZQWmJPZjFmbEUwZVE5UDlMSDBjblNvTjIxNWFhWFlLR2ZmME8tOWZsekNQVS03TV9yb3BPYjJqM2RfYlcyNFRxamp3R1FJZVBhdHAtRVJNZF9tS2lORk1Kd0hJaU5rMjhuVnc?oc=5",
+      "published": "2025-08-10T04:03:05+00:00",
+      "trigger": "Other",
+      "score": 46,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 0,
+        "fit": 16,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:03.817729+00:00"
+    },
+    {
+      "id": "texas-hearne-independent-school-district-historic-davis-gym-demolition-stirs-up-memories-for-hearne-community-kxxv-https-news-go",
+      "state": "Texas",
+      "district": "Hearne Independent School District",
+      "source_county": "Anderson",
+      "title": "Historic Davis Gym demolition stirs up memories for Hearne community - KXXV",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT21xS2Nva3hnMVl4Z21ZaGl1RUJBZU1kUEd5UV81X1M2M01CbFZ1Ry1TTXJZcDN0YnVrNnQwZlhKZkxKUmZxUXRRYjRnX3B1cHlpdGRDdEllVG14bHVERlJfZThobXpWWFRTRTBqeUlVVU9LZEFwTlB5Y2lha2cyRWs2NnFiSHUwVkp1VnlkcnJoekFjaDAyTHo3ZC1hNUo3RVhMdDhsNTI1Yko0QkdkTWEtdFNiZ0xNeDZXamFIR3NGSlBy?oc=5",
+      "published": "2025-07-31T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 45,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 0,
+        "fit": 15,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:04.557737+00:00"
+    },
+    {
+      "id": "texas-hearne-independent-school-district-texas-insurance-crisis-is-hitting-an-unexpected-target-public-schools-houston-chronicle",
+      "state": "Texas",
+      "district": "Hearne Independent School District",
+      "source_county": "Anderson",
+      "title": "Texas' insurance crisis is hitting an unexpected target: Public schools - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRExuZkkyaE5GTHBDWTh0aE56UFhzYm9OdzVRVVUwZE4ycHZjUkdhekNFdWhBeGUxQUFUWlplYm1zOUpNMXZ2SGxhWlBVbmp4MDRXZzI2aDZCTjhMMm5yWjdObXQtNlNsc2dTS1JJeW5FZl9NdklvZjBiOU5UQmxhQWF3d2V2NUNNZ282WHQ1M1lYd3VhLTc5cnl6elZkNmZUNjVzRA?oc=5",
+      "published": "2025-04-23T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 33,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 15,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:04.558705+00:00"
+    },
+    {
+      "id": "texas-slocum-independent-school-district-slocum-board-of-trustees-approves-new-tax-rates-yahoo-com-https-news-google-com-rss-art",
+      "state": "Texas",
+      "district": "Slocum Independent School District",
+      "source_county": "Anderson",
+      "title": "Slocum Board of Trustees approves new tax rates - yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjJRTTVhTnRHZEgzakhhV0pnVVdVczdET3EwZXZZeXlsaXM2OXduVFcwelpueDd2MXhwTWF1bkZrWnEwWUJ4bkV6MF9FMVdOYVNDbXNzZGU0V1dQcmZVc3hVZktIU3dxUlNuR0Jsbk1MOGJFZmlRRWw5bTdyS25kTmJlWEJpQkM2dV83RWpB?oc=5",
+      "published": "2025-08-09T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 45,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 0,
+        "fit": 15,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:14.577881+00:00"
+    },
+    {
+      "id": "texas-slocum-independent-school-district-slocum-board-of-trustees-approves-new-tax-rates-palestineherald-com-https-news-google-c",
+      "state": "Texas",
+      "district": "Slocum Independent School District",
+      "source_county": "Anderson",
+      "title": "Slocum Board of Trustees approves new tax rates - Palestineherald.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDNuZjdrTUd2ZjRHbjVXdXJ6VHpMaU9SejJ1b1R4UVo2SEVYOVV1RW4walRjNjFvNGhsLVZET3RGd0s5T2JKbzdCcTAtYnotNnBQN2xCYVkwUTBTemxRUGxaQ0M1VGlDYVdZdUFtRktRZWlpU012dDVnUVgwRjZwa04yT2QwRVdKc05PVzRYVVZEejBOQ1hLSmlWQ1lDQnViVmoyZndhalQ1Y1R6V3hfTlF0Z3BVeHZMWEZvMkh0MzJmX1UtVE9Jcm13X2hCMkV2NktTaXR3?oc=5",
+      "published": "2025-08-09T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 45,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 0,
+        "fit": 15,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:14.577881+00:00"
+    },
+    {
+      "id": "texas-covington-independent-school-district-an-un-for-tunate-surprise-kentucky-school-districts-face-un-cer-tainty-following-cov",
+      "state": "Texas",
+      "district": "Covington Independent School District",
+      "source_county": "Anderson",
+      "title": "‘An un­for­tunate surprise’: Kentucky school districts face un­cer­tainty following COVID-era funding pause - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0hmdEp4NDByX1ZEaXVhQU51M21yUG42SGM0MGtJZzZZR0d4cDZsaVo2WXdwZExCQW5zbmExSDNKbUtOemVUMmYtdVpNV1RXT21DLTBNdGZvWTZRUU12QXRQY0dDVzdZcURFNTVzOTZBTklLRDlpUXd6ci1qR3ZXYkwwSGRJMjhXTzRMMnBBRzFncmltNXlQZVRmc3h4NFNFTE8yTmdJUTRZVHdhUkhaREJmUTZpU2dlU0J5Y0h4Snh1V1MyeEdXWDJEVks?oc=5",
+      "published": "2025-05-20T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 32,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 14,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:24:15.311715+00:00"
+    },
+    {
+      "id": "georgia-sacred-heart-catholic-school-2025-top-of-class-mize-attendance-center-sacred-heart-catholic-school-wdam-tv-https-news-go",
+      "state": "Georgia",
+      "district": "Sacred Heart Catholic School",
+      "source_county": "Chatham",
+      "title": "2025 Top of Class: Mize Attendance Center & Sacred Heart Catholic School - WDAM-TV",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3FOMFlQR0VJazFrTHhILVB3THdxTEszQS1wYmw5elAxQXZDTzBld0gyaDRuVkVHd1pqNGhHOGpPX0Zyem9Dc0x1aXBSWnUzYXZNN3RoWE9WaVcwbE1EaUQwZXJGYW4zd284Nkh1M1hwMmEtaG9HaEotV1Ewd0c3bU1KaGZOQ0xEaGNmT3ZwbnBPWFFmM3JWNUJVUEEtak1w?oc=5",
+      "published": "2025-06-04T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 39,
+      "breakdown": {
+        "recency": 6,
+        "budget": 6,
+        "stem": 0,
+        "fit": 15,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:14.932880+00:00"
+    },
+    {
+      "id": "georgia-groveland-elementary-school-minnesota-tax-collections-for-may-beat-the-forecast-by-23-million-kroc-am-https-news-google-",
+      "state": "Georgia",
+      "district": "Groveland Elementary School",
+      "source_county": "Chatham",
+      "title": "Minnesota Tax Collections For May Beat the Forecast by $23 million - KROC-AM",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aTWFVb2hFcGVNZGhCX3dMbzJyQUpvcTRYUmhSRmExbEZ2Nm5kMGozN3IxdlV1NGtPUm0ySGdFX1J1MTBwNkpGNDM1b1pCYlJXbnJDMmthQmhrTVp1UEZWWFN1REk1WXQycGJUdGoyUEZUQWFk?oc=5",
+      "published": "2025-06-28T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 41,
+      "breakdown": {
+        "recency": 6,
+        "budget": 6,
+        "stem": 0,
+        "fit": 17,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:15.670514+00:00"
+    },
+    {
+      "id": "georgia-woodbine-elementary-school-infant-toddler-preschool-sacramento-city-unified-school-district-https-news-google-com-rss-ar",
+      "state": "Georgia",
+      "district": "Woodbine Elementary School",
+      "source_county": "Chatham",
+      "title": "Infant, Toddler & Preschool - Sacramento City Unified School District",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tRVVyTTdMQ2NrNDJlbkhGVW1kZkJfQk82VFJFSThndmw5WW5sdXJjYUpoZWJvN3ExYmdLbVlVbmN2bXJhUTFINjdZRmQ0VzJtWllQdWtYTHZrNi1hSmc?oc=5",
+      "published": "2025-08-08T15:53:46+00:00",
+      "trigger": "Other",
+      "score": 46,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 0,
+        "fit": 16,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:17.792245+00:00"
+    },
+    {
+      "id": "georgia-woodbine-elementary-school-annual-update-sacramento-city-unified-school-district-https-news-google-com-rss-articles-cbmi",
+      "state": "Georgia",
+      "district": "Woodbine Elementary School",
+      "source_county": "Chatham",
+      "title": "Annual Update - Sacramento City Unified School District",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpS3RyWWNVSGhwV1EyM0RMRUhsZTdkSERCWXN6QVVSUWpWQURWVjJsMEpaWF9HRjNQTUdzVzFXNkoybUp4UEc3amVHZkJrcDFSTC1ZM1hPbzcxRG5Zb2I4UWs5TUxHVlExWDRBLU4wZFYzX1VFRVNB?oc=5",
+      "published": "2025-08-08T15:55:57+00:00",
+      "trigger": "Other",
+      "score": 46,
+      "breakdown": {
+        "recency": 12,
+        "budget": 6,
+        "stem": 0,
+        "fit": 16,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:17.793242+00:00"
+    },
+    {
+      "id": "georgia-port-wentworth-elementary-school-savannah-public-schools-cut-ribbons-on-nearly-200-million-in-esplost-capital-projects-s",
+      "state": "Georgia",
+      "district": "Port Wentworth Elementary School",
+      "source_county": "Chatham",
+      "title": "Savannah Public Schools cut ribbons on nearly $200 million in ESPLOST capital projects - Savannah Morning News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMmF1ZG9oMnNwU2NJSHRkbV9mTmN4WEVkQkwzUW9wNVpaQUlCRFVuOVEwR1NadW5HSWh5VG1GdkxrdmhqbFFlSHV6UmFlVkUxdVlVMjlLcGthYThpZVlvMGo1VFV4WGFpdllCeHBPQTBYdHFMMnlaMnJsMzBHMEJjREVsdFZyWkc3LWNUM2NYNEpQeUhwUXhiQW1PMEIxeDBwSDVXQndVV0tmaldZTzVvV3BWUTJoMW9NVko4QTJxbGhJMzVXZXN2eS13SjBNWXExdjlCd0F2MHlnanhpLWJzWUFvTTJaSUwyZXVr?oc=5",
+      "published": "2025-08-14T09:05:47+00:00",
+      "trigger": "Funding & Facilities",
+      "score": 53,
+      "breakdown": {
+        "recency": 20,
+        "budget": 6,
+        "stem": 0,
+        "fit": 15,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:19.166297+00:00"
+    },
+    {
+      "id": "georgia-south-effingham-high-school-effingham-county-schools-to-use-grant-esplost-to-pay-for-new-safety-system-savannah-morning-",
+      "state": "Georgia",
+      "district": "South Effingham High School",
+      "source_county": "Chatham",
+      "title": "Effingham County Schools to use grant, ESPLOST to pay for new safety system - Savannah Morning News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1FqQno0VGRCZFRHM2xQTy05WTNnZDdRTXA0UU0tYUh1OWJpazF6RnV0Z09MTXFOWWhoY1NwZDFpdUVQMU1zeWIxeVNhZGdmZmhrYm5CQnJkWDVsc0xZLVV0VEktdk05bG05a1dsbFF3RDU3MEpQajctTnJtMW9nSGxHeHc0cXNMaEQ5YWVRUzhKUzkxenRjalhRWHhyaWtfb202SjJDS2ZkV3F3YkRyOVZBWG01Q0VWTjdkdQ?oc=5",
+      "published": "2025-04-26T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 37,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 19,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:22.154539+00:00"
+    },
+    {
+      "id": "georgia-south-effingham-high-school-nine-effingham-schools-earn-state-honors-effingham-herald-https-news-google-com-rss-articles",
+      "state": "Georgia",
+      "district": "South Effingham High School",
+      "source_county": "Chatham",
+      "title": "Nine Effingham schools earn state honors - Effingham Herald",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQckthWmlRS1llODRzbWFueXpLNDJxekhzcHkxVTA0UnJ4YU5EdHRoWUczQ2Q3MHZ0eDBGRTFDOFdYOEpOdm11OWVHa2pYcGduV2hISUFWNC1jTFZXd3FlUG9UNVZxRk5fNmhiaF9oby1lRHpRT254c2JzX2hhdVZ3S3FJQWV1cHVvSEpZ?oc=5",
+      "published": "2025-05-21T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 37,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 19,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:22.154539+00:00"
+    },
+    {
+      "id": "georgia-south-effingham-high-school-2024-25-coastal-empire-high-school-sports-awards-see-all-spring-nominees-savannah-morning-ne",
+      "state": "Georgia",
+      "district": "South Effingham High School",
+      "source_county": "Chatham",
+      "title": "2024-25 Coastal Empire High School Sports Awards: See all spring nominees - Savannah Morning News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUXkxbndFM3MzVGd2RExJY0ZYZHpGMGdneEdicG9ZY0pZZWxZclA3STNQZW1WNHdfLUQzam5uRm1iYmJVY3ZuU01aYl9ST29QN0FSTEt1aFY4X0lhNE5BeF9DV2RlampmRkpmMVZJaVFVNWZvbGJhNEhnSWN6SDZkY0hzQXVzV0szTlJkM1J0dHBUcVF0a0JnYnRXdTRkRHNmQlNKRjBVSzRhb2t3eEdoSFlQZi1ZenZ6aUNEWHM2UXlyaUR4ejdTZTZGaHBmcjJSUEZFR1d1eEVtWGxxT0hFUWVKVmszYnUwZHg0?oc=5",
+      "published": "2025-05-21T07:00:00+00:00",
+      "trigger": "Other",
+      "score": 37,
+      "breakdown": {
+        "recency": 0,
+        "budget": 6,
+        "stem": 0,
+        "fit": 19,
+        "source": 12
+      },
+      "created_at": "2025-08-20T18:44:22.155537+00:00"
+    }
+  ]
+}

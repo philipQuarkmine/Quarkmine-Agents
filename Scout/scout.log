@@ -1,0 +1,80 @@
+[2025-08-20 14:01:26] Running Scout for Arizona / Maricopa (limit 25) with model llama3
+[2025-08-20 14:22:12] Running Scout for Texas / Anderson (limit 25) with model llama3
+[2025-08-20 14:42:59] Running Scout for Georgia / Chatham (limit 20) with model llama3
+[2025-08-26 08:58:42] Running Scout for Ohio / Adams (limit 25) with model llama3
+[2025-08-27 08:28:23] Running Scout for Ohio / Adams (limit 20) with model llama3
+[2025-08-27 08:35:58] Running Scout for Ohio / Adams (limit 20) with model llama3
+[2025-08-27 08:38:15] Running Scout for Ohio / Adams (limit 20) with model llama3
+[2025-08-28 15:46:14] Running Scout for Ohio / Adams (limit 25) with model llama3
+[2025-08-28 15:50:20] [handoff] Running Seeker for Adams County El-Hefnawy STEM Academy (Ohio)
+[2025-08-28 15:54:12] [handoff] Running Seeker for Adams County/Elk Creek Local School District (Ohio)
+[2025-08-28 15:56:26] [handoff] Running Seeker for Sebastian School District (Adams County) (Ohio)
+[2025-08-28 16:00:05] [handoff] Running Seeker for New Hope Academy (Adams County) (Ohio)
+[2025-08-28 16:02:58] [handoff] Running Seeker for Adams County/Lebanon City School District (partial) (Ohio)
+[2025-08-28 16:31:02] Running Scout for Ohio / Adams (limit 25) with model llama3
+[2025-08-28 16:33:59] Running Scout for Ohio / Adams (limit 25) with model llama3
+[2025-08-28 16:48:56] [handoff] Seeker ← Adams County El-Hefnawy School (Ohio/Adams)
+[2025-08-28 16:49:12] [handoff] Seeker ← Seaman Local School (Ohio/Adams)
+[2025-08-28 16:49:35] [handoff] Seeker ← West Union High School (Ohio/Adams)
+[2025-08-28 16:50:06] [handoff] Seeker ← Bright Local Schools (Ohio/Adams)
+[2025-08-28 16:50:41] [handoff] Seeker ← Sebree Junior/Senior High School (Ohio/Adams)
+[2025-08-28 16:50:59] [handoff] Seeker ← Manchester Local School (Ohio/Adams)
+[2025-08-28 16:51:21] [handoff] Seeker ← Peebles High School (Ohio/Adams)
+[2025-08-28 16:51:50] [handoff] Seeker ← Felicity-Franklin Local Schools (Ohio/Adams)
+[2025-08-28 16:52:11] [handoff] Seeker ← Sardinia-Middleport Local Schools (Ohio/Adams)
+[2025-08-28 16:52:35] [handoff] Seeker ← West Union Elementary School (Ohio/Adams)
+[2025-08-28 16:52:59] [handoff] Seeker ← Bright Elementary School (Ohio/Adams)
+[2025-08-28 16:53:23] [handoff] Seeker ← Seaman Elementary School (Ohio/Adams)
+[2025-08-28 16:53:39] [handoff] Seeker ← Manchester Elementary School (Ohio/Adams)
+[2025-08-28 16:54:07] [handoff] Seeker ← Peebles Elementary School (Ohio/Adams)
+[2025-08-28 16:54:34] [handoff] Seeker ← Felicity-Franklin Elementary School (Ohio/Adams)
+[2025-08-28 16:54:55] [handoff] Seeker ← Sardinia-Middleport Elementary School (Ohio/Adams)
+[2025-08-28 16:55:28] [handoff] Seeker ← Adams County Christian School (Ohio/Adams)
+[2025-08-28 16:55:38] [handoff] Seeker ← North Adams Community School (Ohio/Adams)
+[2025-08-28 16:55:49] [handoff] Seeker ← New Hope Christian School (Ohio/Adams)
+[2025-08-28 16:56:00] [handoff] Seeker ← East Union Local School (Ohio/Adams)
+[2025-08-28 16:56:14] [handoff] Seeker ← Cedarville High School (Ohio/Adams)
+[2025-08-28 16:56:24] [handoff] Seeker ← Peebles Middle School (Ohio/Adams)
+[2025-08-28 17:18:00] Running Scout for Ohio / Adams (limit 25) with model llama3
+[2025-08-28 17:34:15] [handoff] Seeker ← Adams County El-Hefnawy STEM Academy (Ohio/Adams)
+[2025-08-28 18:47:28] Running Scout for Ohio / Adams (limit 25) with model llama3
+[2025-08-28T21:04:36.887388] Running Scout for Ohio/Adams
+[2025-08-28T21:04:36.923491] Ollama failed: write() argument must be str, not bytes
+[2025-08-28T21:04:36.925460] Scout finished: 0 new district(s) added.
+[2025-08-28T21:07:14.630879] Running Scout for Ohio/Adams
+[2025-08-28T21:07:33.314790] Scout finished: 0 new district(s) added.
+[2025-08-28T21:09:23.984347] Running Scout for Ohio/Adams
+[2025-08-28T21:09:30.102107] Scout finished: 0 new district(s) added.
+[2025-08-28 21:16:58] Running Scout for Ohio/Adams with llama3:8b
+[2025-08-28 21:17:50] Running Scout for Ohio/Adams with llama3:8b
+[2025-08-28 21:17:59] Parse error: Expecting value: line 1 column 1 (char 0), raw=Here is the JSON response:
+
+[
+    {
+        "district": "Adams County El-Hefnawy School",
+        "district_type": "Public",
+        "size": "350 students",
+        "grades": "K-8",
+        "STEM_pres
+[2025-08-28 21:23:43] Running Scout for Ohio/Adams with llama3:8b
+[2025-08-28 21:27:23] Running Scout for Ohio/Adams with llama3:8b
+[2025-08-28 21:27:49] Running Scout for Ohio/Adams with llama3:8b
+[2025-08-28 21:30:14] Running Scout for Ohio/Adams with llama3:8b
+[2025-08-28 21:34:26] Running Scout for Ohio/Adams with llama3:8b
+[2025-08-28 21:34:36] [handoff] Running Seeker for Adams County El-Hefnawy School (Ohio/Adams)
+[2025-08-28 21:34:40] [handoff] Running Seeker for West Union City Schools (Ohio/Adams)
+[2025-08-28 21:34:43] [handoff] Running Seeker for Sebastian Public Schools (Ohio/Adams)
+[2025-08-28 21:34:47] [handoff] Running Seeker for Ohio Virtual Academy (Ohio/Adams)
+[2025-08-28 21:34:52] [handoff] Running Seeker for Adams County Career And Technical Education Program (Ohio/Adams)
+[2025-08-28 21:55:19] Running Scout for Ohio/Franklin with llama3:8b
+[2025-08-28 21:55:27] [handoff] Running Seeker for Dublin City Schools (Ohio/Franklin)
+[2025-08-28 21:55:29] [handoff] Running Seeker for South-Western City Schools (Ohio/Franklin)
+[2025-08-28 21:55:31] [handoff] Running Seeker for Westerville City Schools (Ohio/Franklin)
+[2025-08-28 21:55:32] [handoff] Running Seeker for Hilliard City Schools (Ohio/Franklin)
+[2025-08-28 21:55:34] [handoff] Running Seeker for Polaris Local Schools (Ohio/Franklin)
+[2025-08-28 21:56:26] Running Scout for Ohio/Franklin with llama3:8b
+[2025-08-28 21:56:36] [handoff] Running Seeker for South-Western City School District (Ohio/Franklin)
+[2025-08-28 21:56:37] [handoff] Running Seeker for Westerville City School District (Ohio/Franklin)
+[2025-08-28 21:56:39] [handoff] Running Seeker for Hilliard City School District (Ohio/Franklin)
+[2025-08-28 21:56:40] [handoff] Running Seeker for Worthington City Schools (Ohio/Franklin)
+[2025-08-28 21:56:42] [handoff] Running Seeker for Grandview Heights City Schools (Ohio/Franklin)
